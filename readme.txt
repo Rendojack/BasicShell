@@ -1,4 +1,3 @@
-====================
 Compile a program on the command line:
 make -f make_file.mk
 ====================
