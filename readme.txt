@@ -1,9 +1,8 @@
-Kompiliavimas
-make -f make_file.mk
-
-
 ====================
-FD leaku tikrinimas
+Compile a program on the command line:
+make -f make_file.mk
+====================
+Check for file-descriptor leaks:
 ps axf
-ls -l /proc/27366/fd
+ls -l /proc/PID/fd
 ====================
