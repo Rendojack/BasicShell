@@ -1,4 +1,4 @@
-Compile on the command line:
+Compile:
 make -f make_file.mk
 ====================
 Check for file-descriptor leaks:
